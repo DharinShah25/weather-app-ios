@@ -4,6 +4,6 @@ Description - An app which fetches weather data from API for the user location r
 # Technology
 Language : Swift
 
-Library or funtionality: UserLocation, UIKit,Api Data fetching
+Library or funtionality: UserLocation, UIKit, Api Data fetching
 
 Code Editor : Xcode
